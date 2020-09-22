@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mrange"
+        android:icon="@drawable/logo"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="Set Range">
+
+    </item>
+    <!--<item
+        android:id="@+id/mnotif"
+        android:icon="@drawable/logo"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="Get Offer">
+
+    </item>-->
+
+    <item
+        android:id="@+id/mlogout"
+        android:icon="@drawable/logo"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="Logout">
+
+    </item>
+</menu>

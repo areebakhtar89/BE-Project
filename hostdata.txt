@@ -1,0 +1,7 @@
+
+db/username:Locationbased_Ads_db
+password :Password123$
+
+
+http://my-demo.in/Locationbased_Ads_web/Admin/admin_login.aspx
+http://my-demo.in/Locationbased_Ads_web/Vendor/vendor_login.aspx
